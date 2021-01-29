@@ -1,7 +1,7 @@
 # adole_portfolio
 Data Science Portfolio
 
-## Project 1: Covid_19
+## Project 1: [Covid_19](https://github.com/adoleaa/Covid19-Project)
 
 + Covid_19 Project real time analysis and visualizations
 + A Project analyzing Covid 19 Pandemic global case situations with amazing visualizations, to draw insights from the trends around the world
