@@ -1,7 +1,7 @@
 # adole_portfolio
 Data Science Portfolio
 
-Project 1
+# Project 1
 
 Covid_19 Project real time analysis and visualizations
 A Project analyzing Covid 19 Pandemic global case situations with amazing visualizations, to draw insights from the trends around the world
@@ -19,10 +19,5 @@ confirmed tested cases of Coronavirus infection
 the number of people who have reportedly died while sick with Coronavirus
 the number of people who have reportedly recovered from it
 
-## Data 
-Data is in CSV format and updated daily. It is sourced from this upstream repository maintained by the amazing team at Johns Hopkins University Center for Systems Science and Engineering (CSSE) who have been doing a great public service from an early point by collating data from around the world.
 
-We have cleaned and normalized that data, for example tidying dates and consolidating several files into normalized time series. We have also added some metadata such as column descriptions and data packaged it.
-
-You can view the data, its structure as well as download it in alternative formats (e.g. JSON) from the DataHub:  https://datahub.io/core/covid-19
 
