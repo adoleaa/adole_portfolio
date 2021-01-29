@@ -19,5 +19,6 @@ confirmed tested cases of Coronavirus infection
 the number of people who have reportedly died while sick with Coronavirus
 the number of people who have reportedly recovered from it
 
-
+## Project 2: [Flight delay Prediction](https://github.com/adoleaa/Flight_delay_Prediction)
+Flight delay Prediction Project using decision tree and random forest.
 
