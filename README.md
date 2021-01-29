@@ -1,16 +1,16 @@
 # adole_portfolio
 Data Science Portfolio
 
-# Project 1: Covid_19
+## Project 1: Covid_19
 
-*Covid_19 Project real time analysis and visualizations
-*A Project analyzing Covid 19 Pandemic global case situations with amazing visualizations, to draw insights from the trends around the world
+Covid_19 Project real time analysis and visualizations
+A Project analyzing Covid 19 Pandemic global case situations with amazing visualizations, to draw insights from the trends around the world
 
 Find as follows the repo of the datasets used for this project- https://github.com/adoleaa/covid-19
 The direct link to the datasets- https://datahub.io/core/covid-19
 
 
-## COVID-19 dataset
+#### COVID-19 dataset
 Coronavirus disease 2019 (COVID-19) time series listing confirmed cases, reported deaths and reported recoveries. Data is disaggregated by country (and sometimes subregion). Coronavirus disease (COVID-19) is caused by the Severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2) and has had a worldwide effect. On March 11 2020, the World Health Organization (WHO) declared it a pandemic, pointing to the over 118,000 cases of the Coronavirus illness in over 110 countries and territories around the world at the time.
 
 This dataset includes time series data tracking the number of people affected by COVID-19 worldwide, including:
